@@ -1,0 +1,1 @@
+riakCS = require('awssum-riakcs');
