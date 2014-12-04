@@ -1,12 +1,12 @@
 Package.describe({
   name: 'andruschka:awssum-riakcs',
   summary: 'RiakCS plugin for AWSSUM',
-  version: '0.1.5',
+  version: '0.1.6',
   git: 'https://github.com/andruschka/meteor-awssum-riakcs.git'
 });
 
 Npm.depends({
-	'awssum-riakcs': '1.1.0'
+	'awssum-riakcs': '1.2.0'
 });
 
 Package.onUse(function(api) {
