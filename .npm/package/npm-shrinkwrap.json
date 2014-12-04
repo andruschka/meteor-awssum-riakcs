@@ -1,0 +1,145 @@
+{
+  "dependencies": {
+    "awssum": {
+      "version": "1.2.0",
+      "dependencies": {
+        "underscore": {
+          "version": "1.4.4"
+        },
+        "xml2js": {
+          "version": "0.2.8",
+          "dependencies": {
+            "sax": {
+              "version": "0.5.8"
+            }
+          }
+        }
+      }
+    },
+    "awssum-amazon": {
+      "version": "1.4.0",
+      "dependencies": {
+        "underscore": {
+          "version": "1.4.4"
+        },
+        "dateformat": {
+          "version": "1.0.4-1.2.3"
+        }
+      }
+    },
+    "awssum-riakcs": {
+      "version": "1.1.0",
+      "dependencies": {
+        "underscore": {
+          "version": "1.7.0"
+        },
+        "data2xml": {
+          "version": "0.8.1"
+        },
+        "dateformat": {
+          "version": "1.0.11",
+          "dependencies": {
+            "get-stdin": {
+              "version": "3.0.2"
+            },
+            "meow": {
+              "version": "2.0.0",
+              "dependencies": {
+                "camelcase-keys": {
+                  "version": "1.0.0",
+                  "dependencies": {
+                    "camelcase": {
+                      "version": "1.0.2"
+                    },
+                    "map-obj": {
+                      "version": "1.0.0"
+                    }
+                  }
+                },
+                "indent-string": {
+                  "version": "1.2.0",
+                  "dependencies": {
+                    "repeating": {
+                      "version": "1.1.0",
+                      "dependencies": {
+                        "is-finite": {
+                          "version": "1.0.0"
+                        },
+                        "meow": {
+                          "version": "1.0.0"
+                        }
+                      }
+                    }
+                  }
+                },
+                "minimist": {
+                  "version": "1.1.0"
+                },
+                "object-assign": {
+                  "version": "1.0.0"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "data2xml": {
+      "version": "0.8.1"
+    },
+    "dateformat": {
+      "version": "1.0.11",
+      "dependencies": {
+        "get-stdin": {
+          "version": "3.0.2"
+        },
+        "meow": {
+          "version": "2.0.0",
+          "dependencies": {
+            "camelcase-keys": {
+              "version": "1.0.0",
+              "dependencies": {
+                "camelcase": {
+                  "version": "1.0.2"
+                },
+                "map-obj": {
+                  "version": "1.0.0"
+                }
+              }
+            },
+            "indent-string": {
+              "version": "1.2.0",
+              "dependencies": {
+                "repeating": {
+                  "version": "1.1.0",
+                  "dependencies": {
+                    "is-finite": {
+                      "version": "1.0.0"
+                    },
+                    "meow": {
+                      "version": "1.0.0"
+                    }
+                  }
+                }
+              }
+            },
+            "minimist": {
+              "version": "1.1.0"
+            },
+            "object-assign": {
+              "version": "1.0.0"
+            }
+          }
+        }
+      }
+    },
+    "xml2js": {
+      "version": "0.2.8",
+      "dependencies": {
+        "sax": {
+          "version": "0.5.8"
+        }
+      }
+    }
+  }
+}
