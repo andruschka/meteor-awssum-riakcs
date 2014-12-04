@@ -1,1 +1,1 @@
-riakCS = NPM.require('awssum-riakcs');
+riakCS = Npm.require('awssum-riakcs');
