@@ -1,6 +1,6 @@
 Package.describe({
   name: 'andruschka:awssum-riakcs',
-  summary: '',
+  summary: 'RiakCS plugin for AWSSUM',
   version: '0.1.0',
   git: 'https://github.com/andruschka/meteor-awssum-riakcs.git'
 });
