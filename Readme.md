@@ -3,7 +3,7 @@ Installs awssum, awssum-amazon and awssum-riakcs.
 Provides  ``RiakCS`` Class on the server.
 More infos at <a href="https://github.com/andruschka/awssum-riakcs">awssum-riakcs</a>.
 
-## Useage
+## Usage
 ``` coffeescript
 ...
 riakCS = new RiakCS.S3({
